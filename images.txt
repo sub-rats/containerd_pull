@@ -1,3 +1,4 @@
 alpine
 alpine:latest
 nginx:1.26.0
+mysql:5.7.44
